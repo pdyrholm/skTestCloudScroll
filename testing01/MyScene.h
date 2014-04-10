@@ -1,0 +1,13 @@
+//
+//  MyScene.h
+//  testing01
+//
+
+//  Copyright (c) 2014 Peter Dyrholm. All rights reserved.
+//
+
+#import <SpriteKit/SpriteKit.h>
+
+@interface MyScene : SKScene
+
+@end
